@@ -11,6 +11,7 @@ Google Maps Example
 ```
 - Güncel konum işaretlenmesi, son konumu alma, işaretli konumun adresinin gösterilmesi işlemleri yapılmıştır.
 - Projeye ait ekran görüntüleri aşağıda bulunmaktadır.
+  
   <table>
 <tr>
   <td>
